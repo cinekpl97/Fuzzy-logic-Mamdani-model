@@ -1,0 +1,5 @@
+.idea
+venv
+client_secret.json
+credentials.json
+__pycache__
